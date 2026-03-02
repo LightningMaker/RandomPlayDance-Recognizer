@@ -1,5 +1,4 @@
 # 随舞音频识别器
-## 使用说明
 将需要查找的多首歌曲放入MusicLibrary文件夹，待识别的长音频放入Input文件夹，然后运行RandomPlayDance Recognizer.exe即可。
 
 ## 下载链接
