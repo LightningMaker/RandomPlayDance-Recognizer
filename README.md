@@ -3,6 +3,7 @@
 
 ## 下载链接
 https://github.com/LightningMaker/RandomPlayDance-Recognizer/releases
+
 注意：本项目基于.NET 8制作，使用前需下载并安装[.NET 8 运行时](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.24-windows-x64-installer。
 
 ## 致谢
